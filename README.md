@@ -1,5 +1,12 @@
-### Hi there 👋
+# Hi I'm Saif 👋
 
+I am a freelance React developer who is passionate about making performant, modern web applications with clients in over 7 countries in the world. With over 4 years of experience working as a freelance developer, I have had the experience and the privilege of working with companies ranging from as big as Fortune 100 to micro-startups all around the world.
+
+I primarily work on the MERN stack: React, React Native, NodeJS, PWA, Gatsby, GraphQL, Vercel, ExpressJS, MongoDB.
+
+- 📫 How to reach me: Please email me at hey@saif.dev
+- 🕸 Website: [https://www.saif.dev](saif.dev)
+- 📂 Portfolio: Available on request
 <!--
 **saifalfalah/saifalfalah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
