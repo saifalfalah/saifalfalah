@@ -6,8 +6,8 @@ I am a freelance React developer who is passionate about making performant, mode
 I primarily work on the MERN stack: React, React Native, NodeJS, PWA, Gatsby, GraphQL, Vercel, ExpressJS, MongoDB.
 
 - 📫 How to reach me: Please email me at hey@saif.dev
-- 🕸 Website: [https://www.saif.dev](saif.dev)
-- 📂 Portfolio: Available on request
+- 🕸 Website: [saif.dev](https://www.saif.dev)
+- 📂 Portfolio: Available on [request](portfolio@saif.dev)
 <!--
 **saifalfalah/saifalfalah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
