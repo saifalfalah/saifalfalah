@@ -8,6 +8,8 @@ I primarily work on the MERN stack: React, NodeJS, NextJS, Gatsby, GraphQL, Expr
 - 📫 How to reach me: <hey@saif.dev>
 - 🕸 Website: [saif.dev](https://www.saif.dev)
 - 📂 Portfolio: Available on [request](mailto:portfolio@saif.dev)
+
+### Availability: Starting September 2021
 <!--
 **saifalfalah/saifalfalah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
