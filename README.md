@@ -13,7 +13,7 @@ I primarily work on the MERN stack including React, Node, NextJS, GatsbyJS, Grap
 
 ***
 
-#### Availability: Starting September 2021
+#### Availability: Starting January 2022
 <!--
 **saifalfalah/saifalfalah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
