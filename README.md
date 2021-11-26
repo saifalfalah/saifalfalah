@@ -8,6 +8,7 @@ I primarily have experience working on the MERN stack including React, Next.js, 
 - 📫 Hire me: <hey@saif.dev>
 - 🕸 Website: [saif.dev](https://www.saif.dev)
 - 📂 Portfolio: Available on [request](mailto:portfolio@saif.dev)
+- 🔭 I’m currently working on [Furic](https://www.furic.app) - video editing in the browser
 
 [☕ Buy me a coffee](https://www.buymeacoffee.com/saif)
 
