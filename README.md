@@ -10,7 +10,7 @@ I primarily have experience working on the MERN stack including React, Next.js, 
 - 📂 Portfolio: Available on [request](mailto:portfolio@saif.dev)
 - 🔭 I’m currently working on [Furic](https://www.furic.app) - video editing in the browser
 
-[☕ Buy me a coffee](https://www.buymeacoffee.com/saif)
+[☕ Buy me a coffee](https://paypal.me/saifalfalah)
 
 ***
 
