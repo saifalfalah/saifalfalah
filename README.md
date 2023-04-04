@@ -14,7 +14,7 @@ I primarily have experience working on the MERN stack including React, Next.js, 
 
 ***
 
-#### Availability: Starting December 2022
+#### Availability: Starting June 2023
 <!--
 **saifalfalah/saifalfalah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
