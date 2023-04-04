@@ -1,7 +1,7 @@
 # Hi, I'm Saif 👋 👨‍💻
 ### Freelance React Developer
 
-I am a freelance React developer who is passionate about making performant, modern web applications with clients in over 7 countries in the world. With over 4 years of experience working as a freelance developer, I have had the experience and the privilege of working with companies ranging from as big as Fortune 100 to micro-startups all around the world.
+I am a freelance React developer who is passionate about making performant, modern web applications with clients in over 7 countries in the world. With over 5 years of experience working as a freelance developer, I have had the experience and the privilege of working with companies ranging from as big as Fortune 100 to micro-startups all around the world.
 
 I primarily have experience working on the MERN stack including React, Next.js, Gatsby, GraphQL, Express, Node, AWS, Firebase, Serverless, MongoDB, MySQL etc.
 
